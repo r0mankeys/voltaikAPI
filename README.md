@@ -8,7 +8,7 @@ This is a simple API that allows you to create, read, update and delete employee
 
 ## TODO
 
-- [ ] Authentication and authorization
+- [x] Authentication and authorization
 - [ ] Sanitize user inputs
 - [ ] Rate limiting
 - [ ] Logging
