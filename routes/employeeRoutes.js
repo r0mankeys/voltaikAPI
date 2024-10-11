@@ -7,7 +7,6 @@ import {
     updateEmployee,
     deleteEmployee,
 } from '../controllers/employeeControlers.js'
-import 'dotenv/config'
 import authenticateUser from '../authentication/authenticate.js'
 const router = express.Router()
 
