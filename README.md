@@ -9,8 +9,6 @@ This is a simple API that allows you to create, read, update and delete employee
 ## TODO
 
 - [x] Authentication and authorization
-- [ ] Sanitize user inputs
-- [ ] Rate limiting
-- [ ] Logging
-- [ ] Testing
+- [x] Rate limiting
+- [x] Testing
 - [ ] Host with Railway
